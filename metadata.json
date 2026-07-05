@@ -1,0 +1,8 @@
+{
+  "name": "Remix: TCT Audiovisual",
+  "description": "Aplicación profesional para la monitorización de rodajes, grabaciones, logística de equipos y capacitación interactiva de Corporación TCT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
